@@ -1,1 +1,2 @@
-# React-TailwindCSS-StarterPack
+# React + Tailwind CSS
+React-TailwindCSS-StarterPack
