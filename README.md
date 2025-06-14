@@ -1,2 +1,3 @@
-# React + Tailwind CSS
-React-TailwindCSS-StarterPack
+# React + TypeScript + Vite + Tailwind CSS
+
+React + TypeScript + Vite + Tailwind CSS StarterPack
